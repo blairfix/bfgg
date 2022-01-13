@@ -1,6 +1,6 @@
 # blair's black and white theme for ggplot charts
 
-blair_theme = function(text_size){
+bfgg_theme = function(text_size){
   
   theme_bw() +
   theme(

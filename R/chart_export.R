@@ -1,7 +1,5 @@
 # a function to export ggplot charts
 
-library(gridExtra)
-
 chart_export = function(plot_var,
 			filename,
 			dir,

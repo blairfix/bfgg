@@ -19,7 +19,7 @@ d = data.frame(x, y)
 # test plot
 test = ggplot(data = d) +
 	geom_point(aes(x = x, y = y) )+
-	b_theme(text_size = 10)
+	bfgg_theme(text_size = 10)
 
 # export
 chart_export(plot_var = test,
