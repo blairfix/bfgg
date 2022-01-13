@@ -8,7 +8,6 @@
 ### Example
 
 ```R
-library(ggplot2)
 library(bfgg)
 
 # test data
